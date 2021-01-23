@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">..::SySEstoque::..</string>
+    <string name="btnEstoque">Estoque</string>
+    <string name="button">Bolinhas</string>
+    <string name="btnMontagen">Montagens</string>
+    <string name="tvBem_Vindos">Bem Vindo ao Sistema do Estoque</string>
+    <string name="bolinhas_B">Bolinhas</string>
+    <string name="tvMontagens_M">Montagens</string>
+    <string name="tvBeta">Beta: V 4.0</string>
+    <string name="spnNomes"></string>
+    <string name="tela_principal">Tela principal do Sistema de controle. Aqui o usuário deve selecionar um dos 3 botões ESTOQUE, BOLINHAS ou MONTAGENS. Qual opção você deseja?</string>
+    <string name="processo_de_contagen_B">Processo de contagen e restos das bolinhas que são necessárias massas</string>
+    <string name="processo_de_controle_E">Processo de Controle do estoque contendo Inseção, exclusão, edição, alterar entre outros.</string>
+    <string name="processo_de_montagen_M">Processo de montagen das Pizzas</string>
+    <string name="tvbem_vindo_">Bem Vindo ao sistema de controle em Estoque da Pizzaria para você</string>
+    <string name="entrar">entrar</string>
+    <string name="tvDescricao">O sistema de controle em estoque para rede de pizzaria para você. Aqui o usuário vai poder realizar as atividades do processo para controle e produção da pizzaria. Click no botão ENTRAR e seja redirecionado ao Sistema!</string>
+    <string name="tvBy">By Eng. Soft. Amarante</string>
+    <string name="todo">TODO</string>
+    <string name="tvMontagens">Aqui o usuário vai escolher a pizza que deseja montar. Por exemplo, eu gostaria de ver os ingredientes necessários e suficientes para realizar a correta montagem de um pizza grande de 8 pedaços com o sabor de quatro queijo!</string>
+    <string name="tvSabor">Qual sabor você deseja montar?</string>
+    <string-array name="Sabor_Montagem">
+        <item>Bacon</item>
+        <item>Bacon Cheddar</item>
+        <item>Bacon Milho</item>
+        <item>Bacon Crocante</item>
+        <item>Calabresa</item>
+        <item>Caipira</item>
+        <item>Catupalha</item>
+        <item>Frango Cheddar</item>
+        <item>Frango Crocante</item>
+        <item>Frango Catupiry</item>
+        <item>Mussarela</item>
+        <item>Milho</item>
+        <item>Dois Amores</item>
+        <item>Chocolate Branco</item>
+        <item>Chocolate Preto</item>
+        <item>Quatro queijos</item>
+    </string-array>
+
+    <string name="app_name2">SpinnerInKotlin</string>
+    <string name="Informativo_montagem_das_pizzas">Nesta atividade demos realizar a montadem de uma pizza que deve ser escolhida no botão ..::Escolha uma opção no Sabor?::.., após a escolha deve-se reailiza um click em ..::Enviar::..</string>
+
+
+</resources>
